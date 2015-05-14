@@ -1,0 +1,7 @@
+{
+  "trello": {
+    "key": "Your application key",
+    "secret": "Your application secret",
+    "token": "Your application token"
+  }
+}
